@@ -26,9 +26,7 @@ Under normal conditions, traffic uses the primary ISP. If the primary path becom
 
 
 When ISP 1 is active:
-
 "VPC ➡️ `172.16.0.10` ➡️ `192.168.100.1` ➡️ Internet"
 
 When ISP 1 goes offline, ISP 2 takes over:
-
 "VPC ➡️ `172.16.0.10` ➡️ `10.0.137.1` ➡️ Internet"
