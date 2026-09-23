@@ -25,7 +25,7 @@ Under normal conditions, traffic uses the primary ISP. If the primary path becom
 - Traffic-path verification using VPCS "trace"
 
 
-###When ISP 1 is active:
+### When ISP 1 is active:
 
 "VPC ➡️ `172.16.0.10` ➡️ `192.168.100.1` ➡️ Internet"
 
